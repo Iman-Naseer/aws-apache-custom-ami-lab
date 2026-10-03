@@ -1,11 +1,11 @@
 # AWS EC2 Apache Deployment & Custom AMI Lab
 
-## 🚀 Overview
+## Overview
 This repository documents a hands-on cloud architecture and server administration lab performed on **Amazon Web Services (AWS)**. The objective of this project was to provision an EC2 instance, install and configure a web server, test custom HTML output, and build a reusable **Amazon Machine Image (AMI)**.
 
 ---
 
-## 🛠️ Lab Architecture & Workflow
+## Lab Architecture & Workflow
 
 ### 1. Instance Creation & Configuration
 * **Service:** Amazon EC2
